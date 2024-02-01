@@ -19,8 +19,6 @@
 🌱 &nbsp;I continue to improve and specialize in my career.\
 ✍️ &nbsp;In my free time I usually read some books, program some software that I have ready, design or come up with new ideas and I continue studying.\
 ✉️ &nbsp;You can email me at luigfmp@gmail.com and I will reply as soon as I can.
-<br>
-<br>
 
 ### 🏫&nbsp; Academic Background
 
