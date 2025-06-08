@@ -19,7 +19,7 @@
 🌱 &nbsp;I continue to improve and specialize in my career.\
 ✍️ &nbsp;In my free time I usually read some books, program some software that I have ready, design or come up with new ideas and I continue studying.\
 ✉️ &nbsp;You can email me at luigfmp@gmail.com and I will reply as soon as I can.
-
+<!---
 ### 🏫&nbsp; Academic Background
 
 [<img align="left" height="100" width="90" alt="UTP" style="margin-right: 15px; border-radius: 5px;" src="https://media.licdn.com/dms/image/C560BAQGK4c4hUBu7vQ/company-logo_200_200/0/1630575848017/utp_universidad_tecnologica_del_peru_logo?e=2147483647&v=beta&t=gpfdB4p_zUdT4VvIOBBMO6jHxFsS1H0xidl_MP7M_GE"/>](https://www.utp.edu.pe)
@@ -32,7 +32,7 @@ Skills: `Teamwork` `Problem solving` `Project management` `Software development`
 **Systems and Computer Engineer** \
 [**STUDIES**](https://institutocajas.edu.pe/) • In progress\
 Skills: `HTML5` `CSS3` `JavaScript` `ReactJS` `Flutter` `Bootstrap` `Git` `GitHub` `TypeScript` `MySql` `NodeJs` `ExpressJS` `NextJs` `Bulma` `MongoDB` `Java`\
-
+-->
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
